@@ -29,8 +29,7 @@
 
 ### AHMAD NUR IKHWAN BIN HAMID
 
-1. Display the Game Board
-2. Settings for Game Board
+1. Display and Settings for Game Board
 
 ### MUHAMMAD AL-AMIN BIN MOHD NORMARZUKI
 
